@@ -5,4 +5,4 @@
 Welcome to Matthew Marriott's profile for Data Temple, a public repository for my personal Data Analytics and Tech projects in the dev space. 
 I work in FinTech, InsurTech, but also use Data, GIS and AI for travel expeditions and exploration.
 
-Visit more projects on matthewmarriott.net
+
